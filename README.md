@@ -18,8 +18,7 @@ Example: tr en ru Hello World
 
 ### Demo
 
-
-https://user-images.githubusercontent.com/34254373/229009624-b953bbb4-e6bf-4859-8f52-fa73df8eec0b.mp4
+![trans](https://user-images.githubusercontent.com/34254373/229021207-bafee2b3-d42a-485b-82d5-75e7789c215f.gif)
 
 Installation:
 
@@ -56,7 +55,7 @@ Exaple: sha256 Hello World!!
 
 ### Demo
 
-https://user-images.githubusercontent.com/34254373/229010231-6be2666a-6e92-4d46-ae80-1060f7bef08a.mp4
+![hash](https://user-images.githubusercontent.com/34254373/229021281-14cf928d-ccc1-48a2-96d9-c4f7b0cd22f3.gif)
 
 Installation:
 
