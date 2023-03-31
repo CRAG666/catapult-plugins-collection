@@ -18,6 +18,9 @@ Example: tr en ru Hello World
 
 ### Demo
 
+
+https://user-images.githubusercontent.com/34254373/229009624-b953bbb4-e6bf-4859-8f52-fa73df8eec0b.mp4
+
 Installation:
 
 ```bash
@@ -52,6 +55,10 @@ Exaple: sha256 Hello World!!
  * shake256
 
 ### Demo
+
+
+https://user-images.githubusercontent.com/34254373/229009770-7513ff0e-ab34-4f72-8465-3186d7c695d8.mp4
+
 
 Installation:
 
