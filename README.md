@@ -13,7 +13,7 @@ language to translate, finally just add what you want translate.
 
 Remember that for the translation to be executed you must add a trailing whitespace.
 
-Format: tr <source language> <target language> <Text to translate><Add a trailing whitespace to translate>
+Format: `tr <source language> <target language> <Text to translate><Add a trailing whitespace to translate>`
 
 Example: tr en ru Hello World
 
@@ -33,7 +33,7 @@ curl https://raw.githubusercontent.com/CRAG666/catapult-plugins-collection/main/
 
 Write the method with which you want to generate the hash.
 
-Format: <method> <text>
+Format: `<method> <text>`
 
 Exaple: sha256 Hello World!!
 
